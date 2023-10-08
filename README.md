@@ -1,6 +1,8 @@
 # Misti
 ***
-Misti est un jeu de plateformes où le joueur contrôle un chat nommé Mistigris, afin que celui-ci retrouve sa bien-aimée Mistigrise et la ramène à son domicile. Il rencontrera sur son chemin de nombreux obstacles et ennemis.
+Misti est un jeu de plateformes où le joueur contrôle un chat nommé _Mistigris_, afin que celui-ci retrouve sa bien-aimée _Mistigrise_ et la ramène à son domicile. Il rencontrera sur son chemin de nombreux obstacles et ennemis.
+##Table des matières
+1. [Histoire](#histoire)
 ## 1. Histoire
 _Mistigris_ passe ses journées à dormir dans la maison de son maître. Un beau jour, il décida d'aller chercher sa bien-aimée _Mistigrise_ qu'il n'avait pas vue depuis un bon moment. Pour ce faire, il devra d'abord trouver un moyen de sortir de sa maison. Par la suite, il lui faudra retrouver _Mistigrise_ dans la ville, sans se blesser, et devra revenir chez lui en sa compagnie.
 Seulement, les deux chats feront une mauvaise rencontre qui n'est autre que _La Team Croquette_, de vilains chiens errants et finiront par être séparés de nouveau. C'est ici que le jeu commence réellement. Déterminé, _Mistigris_ aura pour but de retrouver sa bien-aimée dans l'immense ville pour pouvoir enfin rentrer à sa maison.
